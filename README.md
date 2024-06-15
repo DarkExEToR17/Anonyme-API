@@ -10,7 +10,9 @@
 1. Create A visual Studio project ( WPF APP or .NET FRAMEWORK )
 ![image](screen1.png)
 
-2. Download Api from [here](https://cdn.discordapp.com/attachments/978018060604686428/1251486331742322718/AnonymeAPI.dll?ex=666ec0f8&is=666d6f78&hm=65a777105db0b6a6bd16243041b2562d23dc5538a8a3e6feaa67953f680752d7&)
+2. Download Api from [here](https://cdn.discordapp.com/attachments/978018060604686428/1251491700531134624/AnonymeAPI.rar?ex=666ec5f8&is=666d7478&hm=bde996d8e898cd53a86b1670373101d6b736c0ef9c6bf8023e29b2b070e7fa08&)
+
+> ### ⚠️ Make sure to have Solara folder in ur Debug File or in ur exploit and have launched Solara
 
 3. Add to reference
 ![image](image.png)
@@ -46,5 +48,3 @@ AnonymeAPI.Client.killroblox();
 ```cs
 AnonymeAPI.functions.Scripts.iy();
 ```
-
-> ### ⚠️ This is Still in beta And make sure to have Solara in ur debug folder !
